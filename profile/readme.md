@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFA7A7&height=150&section=header&text=AI학보요약%20서비스%20📰쏙%20쏙%20학%20보📰&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFA7A7&height=150&section=header&text=AI학보요약%20서비스%20📰쏙%20쏙%20학%20보📰&fontSize=45" />
 
 # 📰 쏙쏙학보 📰
 
