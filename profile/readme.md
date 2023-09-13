@@ -1,7 +1,7 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=AI학보요약%20서비스%20📰쏙%20쏙%20학%20보📰&textsize=5" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=AI학보요약%20서비스%20📰쏙%20쏙%20학%20보📰&fontSize=20" />
 
-## 📰 쏙쏙학보 📰
+# 📰 쏙쏙학보 📰
 
 ## AI 학보 요약 서비스, "쏙쏙학보"로 오늘의 학교 소식 빠르고 간결하게 받아보세요!
 
@@ -17,11 +17,12 @@
 	
 ![image](https://github.com/ssokssoknews/.github/assets/68270424/2b7619ea-e273-4659-a8ca-b791223a8a15)
 
+![image](https://github.com/ssokssoknews/.github/assets/68270424/93d4cb54-50d1-4f58-9bf1-b86a6542ca32)
 
 <p>
-1. MZ 세대의 문해력 감소
-2. 서울여대 학보의 낮은 접근성과 홍보
-해당 서비스는 서울여자대학교의 학보와 다양한 정보를 수집하여 요약된 형태로 제공함으로써, 학보의 접근성 문제를 해결하고자 합니다. 이를 통해, 학생들은 쉽고 빠르게 다양한 정보를 습득할 수 있고, 학교와의 소통도 원활하게 이루어질 수 있습니다.
+### 1. MZ 세대의 문해력 감소
+### 2. 서울여대 학보의 낮은 접근성과 홍보
+### ✔️ 해당 서비스는 서울여자대학교의 학보와 다양한 정보를 수집하여 요약된 형태로 제공함으로써, 학보의 접근성 문제를 해결하고자 합니다. 이를 통해, 학생들은 쉽고 빠르게 다양한 정보를 습득할 수 있고, 학교와의 소통도 원활하게 이루어질 수 있습니다.
 
 </p>
 
