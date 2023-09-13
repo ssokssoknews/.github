@@ -88,9 +88,9 @@ https://github.com/ssokssoknews/.github/assets/68270424/073157b4-bcfe-428a-a09f-
 
 |      김세       |          구민지         |       황윤희         |                                                                                                               
 | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | 
-|   <img width="160px" src="![image](https://github.com/ssokssoknews/.github/assets/68270424/8974f1e3-43e4-41e0-9801-a4610cd7ffd9)"
- />    |                      <img width="160px" src="![image](https://github.com/ssokssoknews/.github/assets/68270424/3644b9f4-10f5-4ca4-a177-0ff66a7fb036)"
- />    |                   <img width="160px" src="![image](https://github.com/ssokssoknews/.github/assets/68270424/396f069b-1e72-4c35-aa43-ce9426386270)"
+|   <img width="160px" src="https://velog.velcdn.com/images/heelieben/post/b5926f2b-d3d7-48c2-8f02-bc1356400d27/image.png"
+ />    |                      <img width="160px" src="https://velog.velcdn.com/images/heelieben/post/3fc7f9ea-228e-4f3f-8335-903f6cde8ca9/image.png"
+ />    |                   <img width="160px" src="https://velog.velcdn.com/images/heelieben/post/0c9ea138-8c32-483d-830d-3f82b840b029/image.png"
 />   |
 |   [@SeneKim](https://github.com/SeneKim)   |    [@koominji](https://github.com/koominji)  | [@yunhee1](https://github.com/yunhee1)  |
 | 서울여자대학교 소프트웨어학과 4학년 | 서울여자대학교 소프트웨어학과 4학년 | 서울여자대학교 경영학과 4학년 |
